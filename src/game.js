@@ -5,5 +5,13 @@ var game = new Phaser.Game({
 });
 
 function preload() {
+
+}
+
+function create() {
+
+}
+
+function update() {
   
 }
